@@ -12,6 +12,7 @@ body {
     width: 70%;
     height: 2em;
     color: darkgray;
+    border: 1px solid red;
 }
 
 .contenido h1 {
