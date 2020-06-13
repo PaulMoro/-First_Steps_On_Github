@@ -3,18 +3,24 @@
 }
 
 body {
-    background-color: bisque;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: coral;
+    color: #333;
+    text-align: center;
+    font-family: "Arial";
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
 }
 
 .container {
     width: 70%;
-    color: darkgray;
+    padding: 1em;
+    text-align: left;
     border: 1px solid red;
+    margin: 0 auto;
 }
 
 .contenido h1 {
     size: 70px;
     font-style: oblique;
+    text-align: center;
 }
