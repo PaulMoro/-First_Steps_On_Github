@@ -7,3 +7,14 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: coral;
 }
+
+.container {
+    width: 70%;
+    height: 2em;
+    color: darkgray;
+}
+
+.contenido h1 {
+    size: 70px;
+    font-style: oblique;
+}
