@@ -1,5 +1,6 @@
 * {
-    text-align: center;
+    margin: 0px;
+    padding: 0px;
 }
 
 body {
@@ -22,4 +23,5 @@ body {
 #titulo {
     size: 90px;
     font-style: oblique;
+    text-align: center;
 }
