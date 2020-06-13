@@ -8,6 +8,7 @@ body {
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background-color: bisque;
 }
 
 #container {
@@ -18,8 +19,8 @@ body {
     margin: 0 auto;
 }
 
-h1 {
-    size: 70px;
+#titulo {
+    size: 90px;
     font-style: oblique;
     text-align: center;
 }
