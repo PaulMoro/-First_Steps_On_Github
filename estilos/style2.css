@@ -27,6 +27,7 @@ body {
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+    align-items: flex-start;
 }
 
 #subtittle{
@@ -39,4 +40,9 @@ body {
     size: 90px;
     font-style: oblique;
     text-align: center;
+}
+
+.log {
+    width: 40px;
+    background-color: azure;
 }
