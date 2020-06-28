@@ -18,6 +18,7 @@ body {
     text-align: left;
     border: 1px solid red;
     margin: 0 auto;
+
 }
 
 #cabecera {
@@ -39,4 +40,15 @@ body {
     size: 90px;
     font-style: oblique;
     text-align: center;
+}
+
+.contenido {
+    padding-bottom: 350px;
+}
+
+footer {
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+    padding: 30px;
 }
