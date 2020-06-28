@@ -18,6 +18,7 @@ body {
     text-align: left;
     border: 1px solid red;
     margin: 0 auto;
+
 }
 
 #cabecera {
@@ -42,7 +43,19 @@ body {
     text-align: center;
 }
 
+<<<<<<< HEAD
 .log {
     width: 40px;
     background-color: azure;
+=======
+.contenido {
+    padding-bottom: 350px;
+}
+
+footer {
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+    padding: 30px;
+>>>>>>> footer
 }
