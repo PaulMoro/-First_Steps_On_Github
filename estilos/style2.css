@@ -46,10 +46,7 @@ body {
 .log {
     width: 40px;
     background-color: azure;
-<<<<<<< HEAD
-=======
 }
->>>>>>> header
     
 .contenido {
     padding-bottom: 350px;
@@ -61,3 +58,6 @@ footer {
     text-align: center;
     padding: 30px;
 }
+ p {
+    padding-bottom: 50px;
+ }
