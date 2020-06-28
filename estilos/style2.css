@@ -42,12 +42,11 @@ body {
     font-style: oblique;
     text-align: center;
 }
-<<<<<<< HEAD
-=======
 
 .log {
     width: 40px;
     background-color: azure;
+    
 .contenido {
     padding-bottom: 350px;
 }
@@ -58,4 +57,3 @@ footer {
     text-align: center;
     padding: 30px;
 }
->>>>>>> footer
